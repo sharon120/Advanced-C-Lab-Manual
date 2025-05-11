@@ -185,6 +185,7 @@ Output:
 ![image](https://github.com/user-attachments/assets/a04415ee-6964-404a-b16b-92c3506e56f5)
 
 Result:
+
 Thus, the program to insert elements in queue using linked list is verified successfully.
 
 
