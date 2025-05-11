@@ -1,6 +1,7 @@
 EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 
 Aim:
+
 To write a C program to display stack elements using linked list.
 
 Algorithm:
@@ -47,6 +48,7 @@ EXP.NO 27: C PROGRAM TO POP AN ELEMENT FROM THE GIVEN STACK USING
 LINKED LIST.
 
 Aim:
+
 To write a C program to pop an element from the given stack using liked list.
 
 Algorithm:
@@ -91,6 +93,7 @@ Thus, the program to pop an element from the given stack using liked list is ver
 EXP NO:28 C PROGRAM TO DISPLAY QUEUE ELEMENTS USING LINKED LIST.
 
 Aim:
+
 To write a C program to display queue elements using linked list.
 Algorithm:
 1.	Check if Queue is Empty
@@ -140,6 +143,7 @@ Thus, the program to display queue elements using linked list is verified succes
 EXP NO:29 C PROGRAM TO INSERT ELEMENTS IN QUEUE USING LINKED LIST
 
 Aim:
+
 To write a C program to insert elements in queue using linked list
 
 Algorithm:
